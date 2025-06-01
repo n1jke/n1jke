@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Matvey
 
 📍 First-year student at **Belarusian State University of Informatics and Radioelectronics**  
-🎓 Faculty of Computer Systems and Networks — *Computer Science and Software Technology*
+🎓 Faculty of Computer Systems and Networks — *Computer Science and Software Engineering*
 
 💻 Interested in:  
 - High-load backend development  
