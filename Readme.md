@@ -21,7 +21,9 @@
 
 ## 📄 My CV
 
-📥 [Download my CV (PDF)](./cv.pdf)
+📥 [Download my CV (rus)](./cv.pdf)
+
+📥 [Download my CV (eng)](./cv_en.pdf)
 
 ---
 
