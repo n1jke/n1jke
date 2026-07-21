@@ -19,41 +19,24 @@ I am a **Go SDE** with a strong foundation in **Computer Science, System Design,
 
 ## Tech Stack & Architecture
 
-### Architecture
-
-| Domain-Driven Design (DDD) | Event-Driven Architecture (EDA) |
-| Transactional Outbox/Inbox | Finite State Machines (OrderFSM)|
-
-### Backend, Storage & Messaging
-
-| Go | gRPC | Apache Kafka (Avro) | HTTP |
-| PostgreSQL | Valkey / Redis | Uber FX | Docker/Compose |
-
-### Observability & Performance
-
-| Prometheus | Grafana | grafana/k6 | RED Metrics / Profiling |
-
-### Core CS & Foundations
-
-| Computer Systems Architecture | Algorithms & Data Structures | Discrete mathematics | Linear Algebra |
+- **Architecture & System Design:** `DDD` `EDA` `Clean Architecture`  `Distributed Systems` `Reliability patterns`
+- **Backend:** `Go` `gRPC` `Apache Kafka (Avro)` `HTTP` `Uber FX` `Testing`
+- **Databases:** `PostgreSQL` `Valkey` `Redis`
+- **Observability & Infra:** `Prometheus` `Grafana` `grafana/k6` `Docker` `Docker Compose` `Profiling`
+- **Core CS:** `Algorithms & Data Structures` `Computer Systems Architecture` `Discrete Math` `Linear Algebra`
 
 ---
 
 ## Featured Projects
 
-- **[LinkTracker](https://github.com/n1jke/linktracker)** — Distributed EDA link tracking platform (Go, DDD, Kafka, gRPC, Transactional Outbox/Inbox, Valkey, k6, Prometheus/Grafana).
-- **[OOP BSUIR Labs](https://github.com/n1jke/oop-bsuir-2026)** — Clean Architecture, DDD, GoF patterns, TDD & SOLID principles showcase (*GPA 9.29*).
+- **[LinkTracker](https://github.com/n1jke/linktracker)** — Distributed EDA link tracking platform (Go, DDD, Kafka, gRPC, Transactional Outbox/Inbox, Valkey, k6, Prometheus/Grafana) & *650+ RPS, p99 9ms*.
+- **[OOP BSUIR Labs](https://github.com/n1jke/oop-bsuir-2026)** — Clean Architecture, DDD, GoF patterns, TDD & SOLID principles showcase & *GPA 9.29*.
 
 ---
 
-## CV
+## 🌐 Connect & CV
 
-- **CV (rus):** [cv.pdf](./cv.pdf)
-- **CV (eng):** [cv_en.pdf](./cv_en.pdf)
-
----
-
-## 🌐 Connect
+- [CV (rus)](./cv.pdf) & [CV (eng)](./cv_en.pdf)
 
 - **Telegram:** [@n1jke](https://t.me/n1jke)
 - **LinkedIn:** [linkedin.com/in/n1jke](https://www.linkedin.com/in/n1jke)
